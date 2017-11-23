@@ -1,0 +1,479 @@
+2014-11-13 16:44:24 [INFO ]	================== GMAIL NOTIFIER ==================
+2014-11-13 16:44:29 [DEBUG]	Exécution du notifier
+2014-11-13 16:44:29 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:42)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:24)
+2014-11-13 16:44:43 [INFO ]	================== GMAIL NOTIFIER ==================
+2014-11-13 16:44:48 [DEBUG]	Exécution du notifier
+2014-11-13 16:44:53 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:42)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:24)
+2014-11-13 16:44:58 [DEBUG]	Exécution du notifier
+2014-11-13 16:45:03 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:42)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:24)
+2014-11-13 16:45:08 [DEBUG]	Exécution du notifier
+2014-11-13 16:45:09 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+	at com.sun.mail.imap.IMAPStore.protocolConnect(IMAPStore.java:661)
+	at javax.mail.Service.connect(Service.java:295)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:42)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:24)
+2014-11-13 16:45:14 [DEBUG]	Exécution du notifier
+2014-11-13 16:45:15 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+	at com.sun.mail.imap.IMAPStore.protocolConnect(IMAPStore.java:661)
+	at javax.mail.Service.connect(Service.java:295)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:42)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:24)
+2014-11-13 16:46:35 [INFO ]	================== GMAIL NOTIFIER ==================
+2014-11-13 16:46:40 [DEBUG]	Exécution du notifier
+2014-11-13 16:46:40 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:42)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:24)
+2014-11-13 16:48:05 [INFO ]	================== GMAIL NOTIFIER ==================
+2014-11-13 16:48:10 [DEBUG]	Exécution du notifier
+2014-11-13 16:48:11 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+	at com.sun.mail.imap.IMAPStore.protocolConnect(IMAPStore.java:661)
+	at javax.mail.Service.connect(Service.java:295)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:42)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:48:16 [DEBUG]	Exécution du notifier
+2014-11-13 16:48:16 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+	at com.sun.mail.imap.IMAPStore.protocolConnect(IMAPStore.java:661)
+	at javax.mail.Service.connect(Service.java:295)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:42)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:48:21 [DEBUG]	Exécution du notifier
+2014-11-13 16:48:32 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+	at com.sun.mail.imap.IMAPStore.protocolConnect(IMAPStore.java:661)
+	at javax.mail.Service.connect(Service.java:295)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:42)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:48:37 [DEBUG]	Exécution du notifier
+2014-11-13 16:48:37 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+	at com.sun.mail.imap.IMAPStore.protocolConnect(IMAPStore.java:661)
+	at javax.mail.Service.connect(Service.java:295)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:42)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:49:11 [INFO ]	================== GMAIL NOTIFIER ==================
+2014-11-13 16:49:16 [DEBUG]	Exécution du notifier
+2014-11-13 16:49:17 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+	at com.sun.mail.imap.IMAPStore.protocolConnect(IMAPStore.java:661)
+	at javax.mail.Service.connect(Service.java:295)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:42)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:49:22 [DEBUG]	Exécution du notifier
+2014-11-13 16:49:23 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+	at com.sun.mail.imap.IMAPStore.protocolConnect(IMAPStore.java:661)
+	at javax.mail.Service.connect(Service.java:295)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:42)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:49:28 [DEBUG]	Exécution du notifier
+2014-11-13 16:49:28 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+	at com.sun.mail.imap.IMAPStore.protocolConnect(IMAPStore.java:661)
+	at javax.mail.Service.connect(Service.java:295)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:42)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:49:33 [DEBUG]	Exécution du notifier
+2014-11-13 16:49:50 [DEBUG]	NOUVEAU MESSAGES !!!!
+2014-11-13 16:50:35 [INFO ]	================== GMAIL NOTIFIER ==================
+2014-11-13 16:50:35 [ERROR]	Impossible de lire la configuration : 
+javax.crypto.IllegalBlockSizeException: Input length must be multiple of 8 when decrypting with padded cipher
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:750)
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:676)
+	at com.sun.crypto.provider.BlowfishCipher.engineDoFinal(BlowfishCipher.java:319)
+	at javax.crypto.Cipher.doFinal(Cipher.java:2087)
+	at fr.cmat.core.Crypto.decrypt(Crypto.java:20)
+	at fr.cmat.core.ConfigurationManager.read(ConfigurationManager.java:60)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:21)
+2014-11-13 16:50:40 [DEBUG]	Exécution du notifier
+2014-11-13 16:50:40 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:51:17 [INFO ]	================== GMAIL NOTIFIER ==================
+2014-11-13 16:52:03 [ERROR]	Impossible de lire la configuration : 
+javax.crypto.IllegalBlockSizeException: Input length must be multiple of 8 when decrypting with padded cipher
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:750)
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:676)
+	at com.sun.crypto.provider.BlowfishCipher.engineDoFinal(BlowfishCipher.java:319)
+	at javax.crypto.Cipher.doFinal(Cipher.java:2087)
+	at fr.cmat.core.Crypto.decrypt(Crypto.java:20)
+	at fr.cmat.core.ConfigurationManager.read(ConfigurationManager.java:60)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:21)
+2014-11-13 16:52:08 [DEBUG]	Exécution du notifier
+2014-11-13 16:52:08 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:52:13 [DEBUG]	Exécution du notifier
+2014-11-13 16:52:13 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:52:18 [DEBUG]	Exécution du notifier
+2014-11-13 16:52:18 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:52:22 [INFO ]	================== GMAIL NOTIFIER ==================
+2014-11-13 16:52:25 [ERROR]	Impossible de lire la configuration : 
+javax.crypto.IllegalBlockSizeException: Input length must be multiple of 8 when decrypting with padded cipher
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:750)
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:676)
+	at com.sun.crypto.provider.BlowfishCipher.engineDoFinal(BlowfishCipher.java:319)
+	at javax.crypto.Cipher.doFinal(Cipher.java:2087)
+	at fr.cmat.core.Crypto.decrypt(Crypto.java:20)
+	at fr.cmat.core.ConfigurationManager.read(ConfigurationManager.java:60)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:21)
+2014-11-13 16:52:30 [DEBUG]	Exécution du notifier
+2014-11-13 16:52:30 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:52:35 [DEBUG]	Exécution du notifier
+2014-11-13 16:52:35 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:52:40 [DEBUG]	Exécution du notifier
+2014-11-13 16:52:47 [DEBUG]	Exécution du notifier
+2014-11-13 16:52:53 [DEBUG]	Exécution du notifier
+2014-11-13 16:53:01 [INFO ]	================== GMAIL NOTIFIER ==================
+2014-11-13 16:53:02 [ERROR]	Impossible de lire la configuration : 
+javax.crypto.IllegalBlockSizeException: Input length must be multiple of 8 when decrypting with padded cipher
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:750)
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:676)
+	at com.sun.crypto.provider.BlowfishCipher.engineDoFinal(BlowfishCipher.java:319)
+	at javax.crypto.Cipher.doFinal(Cipher.java:2087)
+	at fr.cmat.core.Crypto.decrypt(Crypto.java:20)
+	at fr.cmat.core.ConfigurationManager.read(ConfigurationManager.java:60)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:21)
+2014-11-13 16:53:07 [DEBUG]	Exécution du notifier
+2014-11-13 16:53:07 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:53:12 [DEBUG]	Exécution du notifier
+2014-11-13 16:53:12 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:54:29 [INFO ]	================== GMAIL NOTIFIER ==================
+2014-11-13 16:54:34 [DEBUG]	Exécution du notifier
+2014-11-13 16:54:34 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:54:39 [DEBUG]	Exécution du notifier
+2014-11-13 16:54:39 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:54:45 [INFO ]	================== GMAIL NOTIFIER ==================
+2014-11-13 16:54:45 [ERROR]	Impossible de lire la configuration : 
+javax.crypto.IllegalBlockSizeException: Input length must be multiple of 8 when decrypting with padded cipher
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:750)
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:676)
+	at com.sun.crypto.provider.BlowfishCipher.engineDoFinal(BlowfishCipher.java:319)
+	at javax.crypto.Cipher.doFinal(Cipher.java:2087)
+	at fr.cmat.core.Crypto.decrypt(Crypto.java:20)
+	at fr.cmat.core.ConfigurationManager.read(ConfigurationManager.java:60)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:21)
+2014-11-13 16:54:50 [DEBUG]	Exécution du notifier
+2014-11-13 16:54:50 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:54:55 [DEBUG]	Exécution du notifier
+2014-11-13 16:54:55 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:55:48 [INFO ]	================== GMAIL NOTIFIER ==================
+2014-11-13 16:55:53 [DEBUG]	Exécution du notifier
+2014-11-13 16:55:53 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:55:58 [DEBUG]	Exécution du notifier
+2014-11-13 16:56:03 [INFO ]	================== GMAIL NOTIFIER ==================
+2014-11-13 16:56:03 [ERROR]	Impossible de lire la configuration : 
+org.xml.sax.SAXParseException; systemId: file:/C:/workspace/GmailNotifier/notifier.xml; lineNumber: 1; columnNumber: 170; La référence de caractère "&#
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:251)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:300)
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:205)
+	at fr.cmat.core.ConfigurationManager.read(ConfigurationManager.java:41)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:21)
+2014-11-13 16:56:08 [DEBUG]	Exécution du notifier
+2014-11-13 16:56:08 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:58:11 [INFO ]	================== GMAIL NOTIFIER ==================
+2014-11-13 16:58:11 [ERROR]	Impossible de lire la configuration : 
+org.xml.sax.SAXParseException; systemId: file:/C:/workspace/GmailNotifier/notifier.xml; lineNumber: 1; columnNumber: 1; Fin prématurée du fichier.
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:251)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:300)
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:205)
+	at fr.cmat.core.ConfigurationManager.read(ConfigurationManager.java:41)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:21)
+2014-11-13 16:58:16 [DEBUG]	Exécution du notifier
+2014-11-13 16:58:16 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:58:21 [DEBUG]	Exécution du notifier
+2014-11-13 16:58:21 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:58:26 [DEBUG]	Exécution du notifier
+2014-11-13 16:58:26 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:58:31 [DEBUG]	Exécution du notifier
+2014-11-13 16:58:31 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:58:36 [INFO ]	================== GMAIL NOTIFIER ==================
+2014-11-13 16:58:36 [ERROR]	Impossible de lire la configuration : 
+java.lang.NullPointerException
+	at fr.cmat.core.ConfigurationManager.read(ConfigurationManager.java:57)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:21)
+2014-11-13 16:58:41 [DEBUG]	Exécution du notifier
+2014-11-13 16:58:41 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:58:46 [DEBUG]	Exécution du notifier
+2014-11-13 16:58:46 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:58:51 [DEBUG]	Exécution du notifier
+2014-11-13 16:58:51 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:58:56 [DEBUG]	Exécution du notifier
+2014-11-13 16:58:56 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:59:01 [DEBUG]	Exécution du notifier
+2014-11-13 16:59:01 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:59:06 [DEBUG]	Exécution du notifier
+2014-11-13 16:59:06 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:59:11 [DEBUG]	Exécution du notifier
+2014-11-13 16:59:11 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:59:16 [DEBUG]	Exécution du notifier
+2014-11-13 16:59:16 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:59:21 [DEBUG]	Exécution du notifier
+2014-11-13 16:59:21 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:59:26 [DEBUG]	Exécution du notifier
+2014-11-13 16:59:26 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:59:31 [DEBUG]	Exécution du notifier
+2014-11-13 16:59:31 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:59:36 [DEBUG]	Exécution du notifier
+2014-11-13 16:59:36 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:59:41 [INFO ]	================== GMAIL NOTIFIER ==================
+2014-11-13 16:59:46 [DEBUG]	Exécution du notifier
+2014-11-13 16:59:46 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:59:51 [DEBUG]	Exécution du notifier
+2014-11-13 16:59:51 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 16:59:56 [DEBUG]	Exécution du notifier
+2014-11-13 17:00:01 [INFO ]	================== GMAIL NOTIFIER ==================
+2014-11-13 17:00:01 [ERROR]	Impossible de lire la configuration : 
+org.xml.sax.SAXParseException; systemId: file:/C:/workspace/GmailNotifier/notifier.xml; lineNumber: 1; columnNumber: 164; La référence de caractère "&#
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:251)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:300)
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:205)
+	at fr.cmat.core.ConfigurationManager.read(ConfigurationManager.java:41)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:21)
+2014-11-13 17:00:06 [DEBUG]	Exécution du notifier
+2014-11-13 17:00:06 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)
+2014-11-13 17:00:11 [DEBUG]	Exécution du notifier
+2014-11-13 17:00:11 [ERROR]	Erreur lors de la connexion à la boite mail : 
+javax.mail.AuthenticationFailedException: failed to connect, no password specified?
+	at javax.mail.Service.connect(Service.java:329)
+	at javax.mail.Service.connect(Service.java:176)
+	at fr.cmat.core.GmailListener.run(GmailListener.java:43)
+	at java.lang.Thread.run(Thread.java:722)
+	at fr.cmat.GmailNotifier.main(GmailNotifier.java:26)

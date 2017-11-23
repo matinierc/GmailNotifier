@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: fr.cmat.GmailNotifier
+Class-Path: . lib/log4j-1.2.15.jar lib/ima
+ p.jar lib/mailapi.jar lib/commons-lang3-3
+ .3.2.jar lib/commons-codec-1.10.jar
+Main-Class: fr.cmat.GmailNotifier
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<notifier>
+<system>
+<refresh>5000</refresh>
+</system>
+<gmail email="xxxxxxx.xxxxxxxxx@xxxxxxx.com" password="crypted_password"/>
+</notifier>
