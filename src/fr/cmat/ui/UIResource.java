@@ -10,6 +10,7 @@ public class UIResource {
 	private static final Logger LOGGER = Logger.getLogger(GmailNotifier.class);
 
 	public static final String DEFAULT_ICON = "fr/cmat/resources/default.png";
+	public static final String ERROR_ICON = "fr/cmat/resources/error.png";
 	public static final String MAIL_ALERT_ICON = "fr/cmat/resources/mail_alert.png";
 
 	public static URL geURL(String resource) {
